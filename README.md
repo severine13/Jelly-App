@@ -1,5 +1,5 @@
 # Jelly-App
-Shiny application for Jellywatch - citizen science
+## Shiny application for Jellywatch - citizen science
 
  Martini Severine 
 
