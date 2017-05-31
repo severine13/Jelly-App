@@ -1,6 +1,8 @@
 # Jelly-App
 ## Shiny application for Jellywatch - citizen science
 
+Published online : https://deeplucy.shinyapps.io/jellywatch-shiny2/
+
  Martini Severine 
 
  training for shiny development using Jellywatch dataset. The objective is to represent the diversity of observations, numbers, spatiality over time...
